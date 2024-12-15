@@ -57,12 +57,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sglara/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sglara/sglara/output/snake.svg" alt="Snake animation" />
