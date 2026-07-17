@@ -41,9 +41,10 @@
 </div>
 
 ### 🔗 Connect With Me
-
-<div align="left">
 <a href="https://www.linkedin.com/in/steven-lara/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
-</div>
+
+<a href="https://steven-lara.dev" target="_blank">
+<img src="https://steven-lara.dev/assets/icons/favicon.ico" height="30" alt="portfolio favicon" />
+</a>
